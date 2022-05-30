@@ -105,6 +105,10 @@ body {
   cursor: pointer;
 }
 
+.modal button:last-child {
+  margin-bottom: 0;
+}
+
 
 .modal button.restart {
   background: #ef4444;
